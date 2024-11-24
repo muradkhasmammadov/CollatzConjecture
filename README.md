@@ -1,1 +1,1 @@
-# CollatzConjecture calculator
+# Collatz Conjecture calculator
